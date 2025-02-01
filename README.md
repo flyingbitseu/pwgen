@@ -2,10 +2,6 @@
 
 A modern React-based password generator with a cool glitch effect when generating passwords.
 
-## Preview
-
-![Password Generator Preview]
-
 ## Features
 
 - **Dynamic Password Length:** Choose the length of the password from 1 to 64 characters.
